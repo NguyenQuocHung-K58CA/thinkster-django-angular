@@ -1,0 +1,25 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "django-angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenQuocHung-K58CA/django-angular.git"
+  },
+  "author": "NguyenQuocHung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenQuocHung-K58CA/django-angular/issues"
+  },
+  "homepage": "https://github.com/NguyenQuocHung-K58CA/django-angular#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-uglify": "^1.5.4"
+  }
+}
